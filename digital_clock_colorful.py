@@ -6,7 +6,7 @@ root = Tk()
 root.title('Digital Clock')
 root.configure(bg='black')
 
-p1 = PhotoImage(file = 'C:\\Users\\Dimuth De Zoysa\\Pictures\\768px-Python-logo-notext.svg.png')
+p1 = PhotoImage(file = '768px-Python-logo-notext.svg (1).png')
 root.iconphoto(False, p1)
 
 lable = Label(root, font=("ds-digital",70), background="black", foreground="lime")
