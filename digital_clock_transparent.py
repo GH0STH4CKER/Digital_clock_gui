@@ -8,7 +8,7 @@ root.title('Digital Clock')
 root.configure(bg='green')
 root.wm_attributes('-transparentcolor','green')
 
-p1 = PhotoImage(file = 'C:\\Users\\Dimuth De Zoysa\\Pictures\\768px-Python-logo-notext.svg.png')
+p1 = PhotoImage(file = '768px-Python-logo-notext.svg (1).png')
 root.iconphoto(False, p1)
 
 def current_time():
